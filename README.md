@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently studying to be a Software Engineer!
+- 🔭 I’m passionate about Software Engineering!
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm from Brazil!
 ##
